@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="txtpassword">My Password</string>
+    <string name="txtFirstname">First Name</string>
+    <string name="txtLastname">Last Name</string>
+    <string name="txtPhonenumber">Phonenumber</string>
+    <string name="txtCreateAccount">Create Account</string>
+    <string name="txtLogin">Login</string>
+</resources>
